@@ -30,7 +30,7 @@ Admin: </br>
 * Add New Admin 
 * Order Management
 * User Management
-* Add Products          
+* Add Products
 * Update Products
 * Logout
  </br>
@@ -54,7 +54,7 @@ User Interface </br>
 
 
 <b>Project Login Information</b> </br>
-User: Email: sahed@gmail.com  Password: 123456</br>
+User: Email: eliharris296@gmail.com  Password: 123456</br>
 Admin: Email: admin@gmail.com  Password: 123456</br>
 
 <b>Project Screenshots: </b> </br>
